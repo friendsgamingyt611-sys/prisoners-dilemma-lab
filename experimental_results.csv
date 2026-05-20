@@ -1,0 +1,8 @@
+strategy,average_score_per_opponent,average_cooperation_rate
+AlwaysCooperate,2.222786,0.990071
+AlwaysDefect,2.083714,0.011286
+TitForTat,2.336500,0.621071
+GrimTrigger,2.344500,0.395286
+Pavlov,2.327357,0.616429
+Random50,2.088357,0.505143
+GenerousTitForTat,2.324571,0.789286
