@@ -1,0 +1,8 @@
+# Ignore compiled executable
+pd_sim
+
+# Ignore editor and OS files
+*.swp
+*.swo
+.DS_Store
+.vercel-trigger
